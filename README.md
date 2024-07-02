@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub! 👨🏻‍💻
+
+Projects here are mostly experimental and/or for fun, so don't hesitate looking around—I recommend checking out my pinned repositories and gists.
+Reach me out:
+<p align="left">
+<a href="https://www.linkedin.com/in/suraj-pawar-mamidi-3aa074125/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-pawar-mamidi-3aa074125" height="30" width="40" /></a>
+</p>
